@@ -7,7 +7,7 @@ from tkinter import filedialog
 from tkinter.ttk import Combobox
 import matplotlib.pyplot as plt
 from PIL import Image, ImageTk
-
+import numpy
 
 class Resize(Frame):
 
